@@ -1,0 +1,1282 @@
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\x64\concrt140.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\x64\cvextern.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\x64\msvcp140.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\x64\vcruntime140.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\ArcSoftFace.exe.config
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\ArcSoftFace.exe
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\ArcSoftFace.pdb
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\AForge.Controls.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\AForge.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\AForge.Imaging.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\AForge.Imaging.Formats.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\AForge.Math.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\AForge.Video.DirectShow.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\AForge.Video.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\ZedGraph.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\ZedGraph.xml
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\de\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\es\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\fr\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\hu\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\it\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\ja\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\pt\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\ru\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\sk\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\sv\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\tr\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\Interop.WMPLib.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\obj\x64\Debug\Interop.WMPLib.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\obj\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\obj\x64\Debug\Gym Management System.csproj.ResolveComReference.cache
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\obj\x64\Debug\Gym_Management_System.Login_Page.resources
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\obj\x64\Debug\Gym_Management_System.Main_Page.resources
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\obj\x64\Debug\ArcSoftFace.Properties.Resources.resources
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\obj\x64\Debug\Gym_Management_System.Registration_Page.resources
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\obj\x64\Debug\Gym Management System.csproj.GenerateResource.cache
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\obj\x64\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\obj\x64\Debug\Gym Management System.csproj.CopyComplete
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\obj\x64\Debug\ArcSoftFace.exe
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\obj\x64\Debug\ArcSoftFace.pdb
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\obj\x64\Debug\Gym Management System.csprojAssemblyReference.cache
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\obj\x64\Debug\Gym_Management_System.FaceForm.resources
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\x64\concrt140.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\x64\cvextern.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\x64\msvcp140.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\x64\vcruntime140.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Gym_Management_System.exe.config
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Gym_Management_System.exe
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Gym_Management_System.pdb
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Controls.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Imaging.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Imaging.Formats.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Math.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Video.DirectShow.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Video.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ZedGraph.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ZedGraph.xml
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\fr\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\hu\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\it\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\pt\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\sk\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\sv\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\tr\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Interop.WMPLib.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym Management System.csprojAssemblyReference.cache
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Interop.WMPLib.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym Management System.csproj.ResolveComReference.cache
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.FaceForm.resources
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Login_Page.resources
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Main_Page.resources
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Properties.Resources.resources
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Registration_Page.resources
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym Management System.csproj.GenerateResource.cache
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym Management System.csproj.CopyComplete
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.exe
+C:\Users\72946\Desktop\人脸识别 2.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.pdb
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\x64\concrt140.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\x64\cvextern.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\x64\msvcp140.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\x64\vcruntime140.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Gym_Management_System.exe.config
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Gym_Management_System.exe
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Gym_Management_System.pdb
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Controls.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Imaging.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Imaging.Formats.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Math.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Video.DirectShow.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Video.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Charts.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Dashboard.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Dashboard.v18.1.Win.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Data.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.DataAccess.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.DataAccess.v18.1.UI.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Diagram.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Images.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Map.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.PivotGrid.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Snap.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Snap.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Snap.v18.1.Extensions.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.TreeMap.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Utils.v18.1.UI.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Xpo.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraCharts.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraCharts.v18.1.UI.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraCharts.v18.1.Wizard.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraDiagram.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGauges.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGauges.v18.1.Presets.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGauges.v18.1.Win.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGrid.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraLayout.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraMap.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraNavBar.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraPivotGrid.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraPrinting.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraReports.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraRichEdit.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraScheduler.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraScheduler.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraTreeList.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraTreeMap.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraVerticalGrid.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\HZH_Controls.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ZedGraph.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.CodeParser.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Dashboard.v18.1.Core.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Dashboard.v18.1.Win.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Data.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.DataAccess.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.DataAccess.v18.1.UI.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Diagram.v18.1.Core.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Map.v18.1.Core.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.PivotGrid.v18.1.Core.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Snap.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Snap.v18.1.Core.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Snap.v18.1.Extensions.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.TreeMap.v18.1.Core.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Utils.v18.1.UI.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Xpo.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraCharts.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraCharts.v18.1.UI.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraCharts.v18.1.Wizard.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraDiagram.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGauges.v18.1.Core.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGauges.v18.1.Presets.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGauges.v18.1.Win.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGrid.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraMap.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraNavBar.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraPivotGrid.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraReports.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraRichEdit.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraScheduler.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraScheduler.v18.1.Core.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraTreeList.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraTreeMap.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraVerticalGrid.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ZedGraph.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Dashboard.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Dashboard.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Dashboard.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Dashboard.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Dashboard.v18.1.Win.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Dashboard.v18.1.Win.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Dashboard.v18.1.Win.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Dashboard.v18.1.Win.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Map.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Map.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Map.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Map.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Snap.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Snap.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Snap.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Snap.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Snap.v18.1.Extensions.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Snap.v18.1.Extensions.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Snap.v18.1.Extensions.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Snap.v18.1.Extensions.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraGauges.v18.1.Presets.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraGauges.v18.1.Presets.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraGauges.v18.1.Presets.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraGauges.v18.1.Presets.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\ZedGraph.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\ZedGraph.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\fr\ZedGraph.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\hu\ZedGraph.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\it\ZedGraph.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\ZedGraph.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\pt\ZedGraph.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\ZedGraph.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\sk\ZedGraph.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\sv\ZedGraph.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\tr\ZedGraph.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Interop.WMPLib.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym Management System.csprojAssemblyReference.cache
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Interop.WMPLib.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym Management System.csproj.ResolveComReference.cache
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.FaceForm.resources
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.MutiMedia_Form.resources
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Login_Page.resources
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.MainForm.resources
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Member_Ad.resources
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Properties.Resources.resources
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Registration_Page.resources
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym Management System.csproj.GenerateResource.cache
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.exe.licenses
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym Management System.csproj.CopyComplete
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.exe
+C:\Users\72946\Desktop\Gym Management System 5.0\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.pdb
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\x64\concrt140.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\x64\cvextern.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\x64\msvcp140.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\x64\vcruntime140.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Gym_Management_System.exe.config
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Gym_Management_System.exe
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Gym_Management_System.pdb
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Controls.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Imaging.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Imaging.Formats.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Math.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Video.DirectShow.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Video.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Charts.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.CodeParser.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Dashboard.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Dashboard.v18.1.Win.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Data.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.DataAccess.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.DataAccess.v18.1.UI.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Diagram.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Images.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Map.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.PivotGrid.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.RichEdit.v18.1.Export.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Snap.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Snap.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Snap.v18.1.Extensions.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.TreeMap.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Utils.v18.1.UI.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Xpo.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraCharts.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraCharts.v18.1.UI.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraCharts.v18.1.Wizard.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraDiagram.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGauges.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGauges.v18.1.Presets.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGauges.v18.1.Win.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGrid.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraLayout.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraMap.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraNavBar.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraPivotGrid.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraPrinting.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraReports.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraReports.v18.1.Extensions.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraRichEdit.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraScheduler.v18.1.Core.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraScheduler.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraTreeList.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraTreeMap.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraVerticalGrid.v18.1.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\HZH_Controls.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ZedGraph.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraCharts.v18.1.Extensions.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Dashboard.v18.1.Core.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Dashboard.v18.1.Win.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Data.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.DataAccess.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.DataAccess.v18.1.UI.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Diagram.v18.1.Core.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Map.v18.1.Core.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.PivotGrid.v18.1.Core.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Snap.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Snap.v18.1.Core.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Snap.v18.1.Extensions.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.TreeMap.v18.1.Core.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Utils.v18.1.UI.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Xpo.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraCharts.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraCharts.v18.1.UI.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraCharts.v18.1.Wizard.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraDiagram.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGauges.v18.1.Core.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGauges.v18.1.Presets.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGauges.v18.1.Win.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGrid.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraMap.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraNavBar.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraPivotGrid.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraReports.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraReports.v18.1.Extensions.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraRichEdit.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraScheduler.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraScheduler.v18.1.Core.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraTreeList.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraTreeMap.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraVerticalGrid.v18.1.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ZedGraph.xml
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Dashboard.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Dashboard.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Dashboard.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Dashboard.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Dashboard.v18.1.Win.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Dashboard.v18.1.Win.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Dashboard.v18.1.Win.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Dashboard.v18.1.Win.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Map.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Map.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Map.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Map.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Snap.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Snap.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Snap.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Snap.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Snap.v18.1.Extensions.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Snap.v18.1.Extensions.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Snap.v18.1.Extensions.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Snap.v18.1.Extensions.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraGauges.v18.1.Presets.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraGauges.v18.1.Presets.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraGauges.v18.1.Presets.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraGauges.v18.1.Presets.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\ZedGraph.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\ZedGraph.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\fr\ZedGraph.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\hu\ZedGraph.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\it\ZedGraph.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\ZedGraph.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\pt\ZedGraph.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\ZedGraph.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\sk\ZedGraph.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\sv\ZedGraph.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\tr\ZedGraph.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Interop.WMPLib.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym Management System.csprojAssemblyReference.cache
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Interop.WMPLib.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym Management System.csproj.ResolveComReference.cache
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.FaceForm.resources
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Information_Management.resources
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Member_Form.resources
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.MutiMedia_Form.resources
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Login_Page.resources
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.MainForm.resources
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Member_Ad.resources
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Properties.Resources.resources
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Registration_Page.resources
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Course_Management.resources
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Report__Statistics.resources
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.SplashScreen1.resources
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Trainer_Form.resources
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym Management System.csproj.GenerateResource.cache
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.exe.licenses
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym Management System.csproj.CopyComplete
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.exe
+C:\Users\72946\Desktop\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.pdb
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\x64\concrt140.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\x64\cvextern.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\x64\msvcp140.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\x64\vcruntime140.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Gym_Management_System.exe.config
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Gym_Management_System.exe
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Gym_Management_System.pdb
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Controls.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Imaging.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Imaging.Formats.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Math.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Video.DirectShow.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Video.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Charts.v18.1.Core.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.CodeParser.v18.1.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Dashboard.v18.1.Core.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Dashboard.v18.1.Win.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Data.v18.1.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.DataAccess.v18.1.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.DataAccess.v18.1.UI.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Diagram.v18.1.Core.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Images.v18.1.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Map.v18.1.Core.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.PivotGrid.v18.1.Core.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.RichEdit.v18.1.Export.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Snap.v18.1.Core.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Snap.v18.1.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Snap.v18.1.Extensions.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.TreeMap.v18.1.Core.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Utils.v18.1.UI.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Xpo.v18.1.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraBars.v18.1.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraCharts.v18.1.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraCharts.v18.1.UI.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraCharts.v18.1.Wizard.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraDiagram.v18.1.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGauges.v18.1.Core.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGauges.v18.1.Presets.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGauges.v18.1.Win.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGrid.v18.1.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraLayout.v18.1.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraMap.v18.1.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraNavBar.v18.1.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraPivotGrid.v18.1.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraPrinting.v18.1.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraReports.v18.1.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraReports.v18.1.Extensions.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraRichEdit.v18.1.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraScheduler.v18.1.Core.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraScheduler.v18.1.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraTreeList.v18.1.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraTreeMap.v18.1.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraVerticalGrid.v18.1.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\HZH_Controls.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ZedGraph.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraCharts.v18.1.Extensions.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Dashboard.v18.1.Core.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Dashboard.v18.1.Win.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Data.v18.1.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.DataAccess.v18.1.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.DataAccess.v18.1.UI.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Diagram.v18.1.Core.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Map.v18.1.Core.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.PivotGrid.v18.1.Core.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Snap.v18.1.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Snap.v18.1.Core.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Snap.v18.1.Extensions.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.TreeMap.v18.1.Core.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Utils.v18.1.UI.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Xpo.v18.1.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraBars.v18.1.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraCharts.v18.1.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraCharts.v18.1.UI.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraCharts.v18.1.Wizard.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraDiagram.v18.1.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGauges.v18.1.Core.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGauges.v18.1.Presets.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGauges.v18.1.Win.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGrid.v18.1.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraMap.v18.1.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraNavBar.v18.1.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraPivotGrid.v18.1.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraReports.v18.1.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraReports.v18.1.Extensions.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraRichEdit.v18.1.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraScheduler.v18.1.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraScheduler.v18.1.Core.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraTreeList.v18.1.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraTreeMap.v18.1.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraVerticalGrid.v18.1.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ZedGraph.xml
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Dashboard.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Dashboard.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Dashboard.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Dashboard.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Dashboard.v18.1.Win.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Dashboard.v18.1.Win.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Dashboard.v18.1.Win.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Dashboard.v18.1.Win.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.DataAccess.v18.1.UI.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Diagram.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Map.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Map.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Map.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Map.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Snap.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Snap.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Snap.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Snap.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Snap.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Snap.v18.1.Extensions.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Snap.v18.1.Extensions.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Snap.v18.1.Extensions.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Snap.v18.1.Extensions.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Utils.v18.1.UI.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraGauges.v18.1.Presets.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraGauges.v18.1.Presets.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraGauges.v18.1.Presets.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraGauges.v18.1.Presets.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraScheduler.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\ZedGraph.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\ZedGraph.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\fr\ZedGraph.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\hu\ZedGraph.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\it\ZedGraph.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\ZedGraph.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\pt\ZedGraph.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\ZedGraph.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\sk\ZedGraph.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\sv\ZedGraph.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\tr\ZedGraph.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Interop.WMPLib.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Interop.WMPLib.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym Management System.csproj.ResolveComReference.cache
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.FaceForm.resources
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Information_Management.resources
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Member_Form.resources
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.MutiMedia_Form.resources
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Login_Page.resources
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.MainForm.resources
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Member_Ad.resources
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Properties.Resources.resources
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Registration_Page.resources
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Course_Management.resources
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Report__Statistics.resources
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.SplashScreen1.resources
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Trainer_Form.resources
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym Management System.csproj.GenerateResource.cache
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.exe.licenses
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym Management System.csproj.CopyComplete
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.exe
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.pdb
+C:\Users\72946\Desktop\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym Management System.csprojAssemblyReference.cache
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\x64\concrt140.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\x64\cvextern.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\x64\msvcp140.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\x64\opencv_ffmpeg410_64.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\x64\vcruntime140.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Gym_Management_System.exe.config
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Gym_Management_System.exe
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Gym_Management_System.pdb
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Controls.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Imaging.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Imaging.Formats.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Math.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Video.DirectShow.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AForge.Video.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Charts.v18.1.Core.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.CodeParser.v18.1.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Dashboard.v18.1.Core.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Dashboard.v18.1.Win.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Data.v18.1.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.DataAccess.v18.1.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.DataAccess.v18.1.UI.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Diagram.v18.1.Core.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Images.v18.1.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Map.v18.1.Core.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Office.v18.1.Core.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Pdf.v18.1.Core.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.PivotGrid.v18.1.Core.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Printing.v18.1.Core.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.RichEdit.v18.1.Core.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.RichEdit.v18.1.Export.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Snap.v18.1.Core.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Snap.v18.1.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Snap.v18.1.Extensions.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Sparkline.v18.1.Core.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.TreeMap.v18.1.Core.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Utils.v18.1.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Utils.v18.1.UI.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Xpo.v18.1.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraBars.v18.1.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraCharts.v18.1.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraCharts.v18.1.UI.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraCharts.v18.1.Wizard.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraDiagram.v18.1.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraEditors.v18.1.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGauges.v18.1.Core.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGauges.v18.1.Presets.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGauges.v18.1.Win.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGrid.v18.1.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraLayout.v18.1.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraMap.v18.1.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraNavBar.v18.1.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraPivotGrid.v18.1.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraPrinting.v18.1.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraReports.v18.1.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraReports.v18.1.Extensions.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraRichEdit.v18.1.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraScheduler.v18.1.Core.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraScheduler.v18.1.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraTreeList.v18.1.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraTreeMap.v18.1.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraVerticalGrid.v18.1.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Emgu.CV.UI.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Emgu.CV.World.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\HZH_Controls.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ZedGraph.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraCharts.v18.1.Extensions.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Dashboard.v18.1.Core.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Dashboard.v18.1.Win.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Data.v18.1.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.DataAccess.v18.1.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.DataAccess.v18.1.UI.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Diagram.v18.1.Core.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Map.v18.1.Core.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Office.v18.1.Core.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Pdf.v18.1.Core.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.PivotGrid.v18.1.Core.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Printing.v18.1.Core.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.RichEdit.v18.1.Core.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Snap.v18.1.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Snap.v18.1.Core.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Snap.v18.1.Extensions.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Sparkline.v18.1.Core.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.TreeMap.v18.1.Core.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Utils.v18.1.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Utils.v18.1.UI.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.Xpo.v18.1.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraBars.v18.1.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraCharts.v18.1.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraCharts.v18.1.UI.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraCharts.v18.1.Wizard.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraDiagram.v18.1.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraEditors.v18.1.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGauges.v18.1.Core.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGauges.v18.1.Presets.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGauges.v18.1.Win.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraGrid.v18.1.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraLayout.v18.1.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraMap.v18.1.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraNavBar.v18.1.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraPivotGrid.v18.1.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraPrinting.v18.1.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraReports.v18.1.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraReports.v18.1.Extensions.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraRichEdit.v18.1.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraScheduler.v18.1.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraScheduler.v18.1.Core.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraTreeList.v18.1.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraTreeMap.v18.1.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\DevExpress.XtraVerticalGrid.v18.1.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Emgu.CV.UI.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Emgu.CV.World.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ZedGraph.xml
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Dashboard.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Dashboard.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Dashboard.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Dashboard.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Dashboard.v18.1.Win.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Dashboard.v18.1.Win.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Dashboard.v18.1.Win.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Dashboard.v18.1.Win.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Data.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Data.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Data.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Data.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.DataAccess.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.DataAccess.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.DataAccess.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.DataAccess.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.DataAccess.v18.1.UI.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.DataAccess.v18.1.UI.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.DataAccess.v18.1.UI.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.DataAccess.v18.1.UI.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Diagram.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Diagram.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Diagram.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Diagram.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Map.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Map.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Map.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Map.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Snap.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Snap.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Snap.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Snap.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Snap.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Snap.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Snap.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Snap.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Snap.v18.1.Extensions.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Snap.v18.1.Extensions.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Snap.v18.1.Extensions.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Snap.v18.1.Extensions.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Utils.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Utils.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Utils.v18.1.UI.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Utils.v18.1.UI.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Utils.v18.1.UI.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Utils.v18.1.UI.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraCharts.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraCharts.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraCharts.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraCharts.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraGauges.v18.1.Presets.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraGauges.v18.1.Presets.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraGauges.v18.1.Presets.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraGauges.v18.1.Presets.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraPivotGrid.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraPivotGrid.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraPivotGrid.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraPivotGrid.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraReports.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraReports.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraReports.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraReports.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraScheduler.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraScheduler.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraScheduler.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraScheduler.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\de\ZedGraph.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\es\ZedGraph.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\fr\ZedGraph.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\hu\ZedGraph.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\it\ZedGraph.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ja\ZedGraph.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\pt\ZedGraph.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\ru\ZedGraph.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\sk\ZedGraph.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\sv\ZedGraph.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\tr\ZedGraph.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\zh-cn\ZedGraph.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\zh-tw\ZedGraph.resources.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\Interop.WMPLib.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\bin\x64\Debug\AxInterop.WMPLib.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym Management System.csprojAssemblyReference.cache
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Interop.WMPLib.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\AxInterop.WMPLib.dll
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym Management System.csproj.ResolveComReference.cache
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.FaceForm.resources
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Information_Management.resources
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Member_Form.resources
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.MutiMedia_Form.resources
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Login_Page.resources
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.MainForm.resources
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Member_Ad.resources
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Properties.Resources.resources
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Registration_Page.resources
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Course_Management.resources
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Report__Statistics.resources
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.SplashScreen1.resources
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.Trainer_Form.resources
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym Management System.csproj.GenerateResource.cache
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.exe.licenses
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym Management System.csproj.CopyComplete
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.exe
+F:\GU2\GU 2\Gym Management System 3.0\Gym_Management_System\Gym_Management_System\obj\x64\Debug\Gym_Management_System.pdb

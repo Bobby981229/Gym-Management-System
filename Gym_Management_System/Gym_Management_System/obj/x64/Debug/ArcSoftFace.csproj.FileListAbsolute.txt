@@ -1,0 +1,94 @@
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\x64\concrt140.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\x64\cvextern.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\x64\msvcp140.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\x64\vcruntime140.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\ArcSoftFace.exe.config
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\ArcSoftFace.exe
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\ArcSoftFace.pdb
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\AForge.Controls.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\AForge.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\AForge.Imaging.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\AForge.Imaging.Formats.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\AForge.Math.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\AForge.Video.DirectShow.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\AForge.Video.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\ZedGraph.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\ZedGraph.xml
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\de\ZedGraph.resources.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\es\ZedGraph.resources.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\fr\ZedGraph.resources.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\hu\ZedGraph.resources.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\it\ZedGraph.resources.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\ja\ZedGraph.resources.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\pt\ZedGraph.resources.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\ru\ZedGraph.resources.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\sk\ZedGraph.resources.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\sv\ZedGraph.resources.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\tr\ZedGraph.resources.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\Interop.WMPLib.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\bin\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\obj\x64\Debug\ArcSoftFace.csprojAssemblyReference.cache
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\obj\x64\Debug\Interop.WMPLib.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\obj\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\obj\x64\Debug\ArcSoftFace.csproj.ResolveComReference.cache
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\obj\x64\Debug\ArcSoftFace.FaceForm.resources
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\obj\x64\Debug\ArcSoftFace.Properties.Resources.resources
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\obj\x64\Debug\ArcSoftFace.csproj.GenerateResource.cache
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\obj\x64\Debug\ArcSoftFace.csproj.CoreCompileInputs.cache
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\obj\x64\Debug\ArcSoftFace.csproj.CopyComplete
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\obj\x64\Debug\ArcSoftFace.exe
+C:\Users\72946\Desktop\ArcfaceDemo_CSharp_2.2-master\ArcSoftFace\ArcSoftFace\obj\x64\Debug\ArcSoftFace.pdb
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\x64\concrt140.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\x64\cvextern.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\x64\msvcp140.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\x64\vcruntime140.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\ArcSoftFace.exe.config
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\ArcSoftFace.exe
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\ArcSoftFace.pdb
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\AForge.Controls.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\AForge.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\AForge.Imaging.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\AForge.Imaging.Formats.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\AForge.Math.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\AForge.Video.DirectShow.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\AForge.Video.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\ZedGraph.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\ZedGraph.xml
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\de\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\es\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\fr\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\hu\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\it\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\ja\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\pt\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\ru\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\sk\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\sv\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\tr\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\Interop.WMPLib.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\bin\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\obj\x64\Debug\ArcSoftFace.csprojAssemblyReference.cache
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\obj\x64\Debug\Interop.WMPLib.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\obj\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\obj\x64\Debug\ArcSoftFace.csproj.ResolveComReference.cache
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\obj\x64\Debug\ArcSoftFace.FaceForm.resources
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\obj\x64\Debug\ArcSoftFace.Properties.Resources.resources
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\obj\x64\Debug\ArcSoftFace.csproj.GenerateResource.cache
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\obj\x64\Debug\ArcSoftFace.csproj.CoreCompileInputs.cache
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\obj\x64\Debug\ArcSoftFace.csproj.CopyComplete
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\obj\x64\Debug\ArcSoftFace.exe
+C:\Users\72946\Desktop\人脸识别 2.0\ArcSoftFace\ArcSoftFace\obj\x64\Debug\ArcSoftFace.pdb
