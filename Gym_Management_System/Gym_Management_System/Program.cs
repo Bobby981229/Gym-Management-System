@@ -1,4 +1,14 @@
-﻿using System;
+﻿/*
+ * Name: Liu Shangyuan
+ * 
+ * SCN: 197076658
+ * 
+ * School: BUAA
+ * 
+ * Version: Gym Management System - Final
+ * 
+ * */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,7 +26,7 @@ namespace Gym_Management_System
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MutiMedia_Form());
+            Application.Run(new Login_Page());
         }
     }
 }

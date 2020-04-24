@@ -1,4 +1,14 @@
-﻿using System;
+﻿/*
+ * Name: Liu Shangyuan
+ * 
+ * SCN: 197076658
+ * 
+ * School: BUAA
+ * 
+ * Version: Gym Management System - Final
+ * 
+ * */
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -24,7 +34,7 @@ namespace Gym_Management_System
         MySqlDataAdapter ad;
         DataSet ds;
         //SignInInterface Mysql DataBase Connection
-        private const string dbServer = "server=127.0.0.1;port=3306;database=gym;user=root;password=LDF8705012";
+        private const string dbServer = "server=127.0.0.1;port=3306;database=gym;user=root;password=**********";
         MySqlConnection conn;
 
         // Create a connection
@@ -1333,7 +1343,7 @@ namespace Gym_Management_System
         private void navBackup_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
         {
             // Statement to call mysqldump to backup mysql database
-            string backupsql = string.Format("mysqldump --host={0} --default-character-set=utf8 --lock-tables  --routines --force --port=3306 --user={1} --password={2} --quick  ", "127.0.0.1", "root", "LDF8705012");
+            string backupsql = string.Format("mysqldump --host={0} --default-character-set=utf8 --lock-tables  --routines --force --port=3306 --user={1} --password={2} --quick  ", "127.0.0.1", "root", "**********");
             // Path to mysqldump
             string mysqldump = "D:\\MySQL\\mysql-8.0.16-winx64\\bin";
             // The name of the database to be backed up
@@ -1370,7 +1380,7 @@ namespace Gym_Management_System
             if (ofd.ShowDialog() == DialogResult.OK)
             {
                 //Statement to call mysqldump to backup mysql database
-                string backupsql = string.Format("mysql --host={0} --default-character-set=utf8  --port=3306 --user={1} --password={2} ", "127.0.0.1", "root", "LDF8705012");
+                string backupsql = string.Format("mysql --host={0} --default-character-set=utf8  --port=3306 --user={1} --password={2} ", "127.0.0.1", "root", "**********");
                 // MySQL Path
                 string mysqldump = "D:\\MySQL\\mysql-8.0.16-winx64\\bin";
                 // The name of the database to be backed up

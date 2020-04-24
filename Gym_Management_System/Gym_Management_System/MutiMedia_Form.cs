@@ -1,4 +1,14 @@
-﻿using System;
+﻿/*
+ * Name: Liu Shangyuan
+ * 
+ * SCN: 197076658
+ * 
+ * School: BUAA
+ * 
+ * Version: Gym Management System - Final
+ * 
+ * */
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;

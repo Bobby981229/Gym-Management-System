@@ -1,4 +1,14 @@
-﻿using System;
+﻿/*
+ * Name: Liu Shangyuan
+ * 
+ * SCN: 197076658
+ * 
+ * School: BUAA
+ * 
+ * Version: Gym Management System - Final
+ * 
+ * */
+using System;
 using System.Collections.Generic;
 using System.IO;
 //using System.Linq;
@@ -17,11 +27,11 @@ namespace Gym_Management_System
         //Here you need to configure the original private key that has not been converted by PKCS8
         public static string merchant_private_key = System.AppDomain.CurrentDomain.SetupInformation.ApplicationBase + "Demo\\rsa_private_key.pem ";
         public static string merchant_public_key = System.AppDomain.CurrentDomain.SetupInformation.ApplicationBase + "Demo\\rsa_public_key.pem";
-        public static string appId = "2015042200550512";   
+        public static string appId = "20150*****50512";   
         public static string serverUrl = "https://openapi.alipay.com/gateway.do";
         public static string mapiUrl = "https://mapi.alipay.com/gateway.do";
         public static string monitor2088222892972212Url = "http://mcloudmonitor.com/gateway.do";
-        public static string pid = "2088102146891244";
+        public static string pid = "20881*****1244";
         /*****************************Test data for production environments*****************************/
 
 

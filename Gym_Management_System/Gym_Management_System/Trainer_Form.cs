@@ -1,4 +1,14 @@
-﻿using MySql.Data.MySqlClient;
+﻿/*
+ * Name: Liu Shangyuan
+ * 
+ * SCN: 197076658
+ * 
+ * School: BUAA
+ * 
+ * Version: Gym Management System - Final
+ * 
+ * */
+using MySql.Data.MySqlClient;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -23,7 +33,7 @@ namespace Gym_Management_System
 
         #region Connect_Database
         //SignInInterface Mysql DataBase Connection
-        private const string dbServer = "server=127.0.0.1;port=3306;database=gym;user=root;password=LDF8705012";
+        private const string dbServer = "server=127.0.0.1;port=3306;database=gym;user=root;password=**********";
         MySqlConnection conn;
 
         // Create a connection
