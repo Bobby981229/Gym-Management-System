@@ -1,4 +1,7 @@
-
+        Gym Management System - GU2 - Graduation Project
+	作者：   刘尚远
+	
+	说明
 	1.	下载并安装VS2017或VS2019环境安装包 https://visualstudio.microsoft.com/zh-hans/downloads/
 	
 	2.	下载并安装MySQL数据库 https://dev.mysql.com/downloads/mysql/
