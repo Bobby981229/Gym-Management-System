@@ -4,6 +4,12 @@ Gym Management System - GU2 - Graduation Project
 	
 	学校：   北京航空航天大学
 	
+	语言:    C#
+	
+	数据库:  MySQL
+	
+	环境:    Visual Studio 2017 —— .Net-Winform平台
+	
 	说明：
 	
 	1.	下载并安装VS2017或VS2019环境安装包 https://visualstudio.microsoft.com/zh-hans/downloads/
